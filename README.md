@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Ani2005maity/SQL/tree/master/0180-consecutive-numbers) |
 | [0550-game-play-analysis-iv](https://github.com/Ani2005maity/SQL/tree/master/0550-game-play-analysis-iv) |
 | [0610-triangle-judgement](https://github.com/Ani2005maity/SQL/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/Ani2005maity/SQL/tree/master/1045-customers-who-bought-all-products) |
