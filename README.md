@@ -10,5 +10,6 @@
 | [1045-customers-who-bought-all-products](https://github.com/Ani2005maity/SQL/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Ani2005maity/SQL/tree/master/1070-product-sales-analysis-iii) |
 | [1164-product-price-at-a-given-date](https://github.com/Ani2005maity/SQL/tree/master/1164-product-price-at-a-given-date) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Ani2005maity/SQL/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1789-primary-department-for-each-employee](https://github.com/Ani2005maity/SQL/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
